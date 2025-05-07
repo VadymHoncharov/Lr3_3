@@ -87,7 +87,12 @@ button:hover {
 }
 
 .results li {
-  background: #f9
+  background: #f9f9f9;
+  padding: 10px 15px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
 
   .project-nav {
   background: #f5f5f5;
